@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Aktuelles"
+    url: /aktuelles/
+  - title: "Informationen"
+    url: /infos/
+  - title: "Mitmachen"
+    url: /mitmachen/
+  - title: "Vorbilder"
+    url: /links/
+  - title: "Kontakt"
+    url: /kontakt/
