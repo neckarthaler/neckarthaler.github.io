@@ -14,9 +14,9 @@ title                    : "NeckarThaler"
 title_separator          : "-"
 name                     : "NeckarThaler"
 description              : "Regionalgeld für Tübingen und Umgebung"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://neckarthaler.de"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : neckarthaler/neckarthaler-mm
+repository               : neckarthaler/neckarthaler.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

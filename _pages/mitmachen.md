@@ -7,7 +7,6 @@ Für Tübingen und sein Umland wollen wir den NeckarTaler organisieren und aufba
 
 Einige der nächsten Schritte sind: 
 
-* Entwicklung eines Logo für unseren NeckarTaler.
 * Entwurf, Gestaltung und Ausfertigung von kleinen, ansprechenden Infoblättern, die sowohl bei den Inhabern von Ladengeschäften und Handwerksbetrieben als  auch bei den möglichen Kunden und Verbraucher das Interesse für Regionalgeld und aktive Beteiligung wecken.
 * Aufbau von Kontakten zu Unternehmen und Institutionen und die  Organisation von Info-Veranstaltungen und -ständen.
 * Auch einige grundsätzliche Fragen zu den Organisationsregeln müssen noch abgeklärt und entschieden werden.

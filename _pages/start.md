@@ -12,7 +12,7 @@ header:
   #caption: ""
 excerpt: "Eine Regionalwährung für Tübingen und Umland. Momentant befinden wir uns im Aufbau und freuen uns über Interesse und aktive Mitarbeit"
 intro: 
-  - excerpt: 'Eine Kurzzusammenfassung was wir wollen und warum!'
+  - excerpt: 'Diese Seite ist noch in Bearbeitung. In Kürze finden Sie hier neue Inhalte.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     title: "Regionale Strukturen stärken"
@@ -24,7 +24,7 @@ feature_row:
     #btn_label: "Projekte"
     #btn_class: "btn--secondary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Bewusster Umgang mit Geld"
+    title: "Bewussterer Umgang mit Geld"
     excerpt: "Geldkreislauf und Warenhandel sind Teil des Alltags. Wir wollen einen nachvollziehbaren und anschauliche Einblick in die regionale Wirtschaft ermöglichen."
 
 #feature_row2:
